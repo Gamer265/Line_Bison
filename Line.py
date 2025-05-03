@@ -13,7 +13,7 @@ API_ID = '1747534'
 API_HASH = '5a2684512006853f2e48aca9652d83ea'
 SESSION_STRING = '1BVtsOGgBu2LspEEeVvgzMKpcl4eA1X-F5mPytbGAAzGj2MeduTtSM5QUhx3eSKfRjhxqVXr47NsUj1EYYRH5zZyxQ2yvUqTdHtFzNM1lniJGPhIhmRUn21C3hPjYXdEXJz5oOXC9wvwvUGNj3Moo-atcP0HuMiwydv0PVZ59RWdkHrXQeqHSXKnzbcw_9LrmhdjFf-6KwT3Hfd2LAxcIZ2hmOoRb9oqpNniGU6wQ1KRyMaCfM2bT5XWfUDGq9MG-iC2NXGaC6kev_riTQwvoveioRelU7HP4QV3wC0aPayWpaargbhPtEdl8Y2Vnhln88lBbZj1gJj7UjxqxyzJXfwii6PYHFsg='
 SOURCE_CHAT_ID = -1001262096355  # source channel
-TARGET_CHAT_ID = -1001124634579  # Destination channel
+TARGET_CHAT_ID = -1001075055733  # Destination channel
 
 # --- Initialize Bot & Logging ---
 user_bot = TelegramClient(StringSession(SESSION_STRING), API_ID, API_HASH)
